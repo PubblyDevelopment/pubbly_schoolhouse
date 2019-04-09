@@ -61,7 +61,7 @@ Cordova application is now ready to build (but has no content)
 
 ### Adding content
 
-All pubbly related content are HTML packets, which can run locally, on a web server, or in a cordova wrapped APK. Each packed can be exported directly from the [Pubbly Design Tools](https://github.com/PubblyDevelopment/pubbly_design_tools), created and downloaded from a [Pubbly Console](https://github.com/PubblyDevelopment/pubbly_console), or manually added from the English/Swahili content root folders, found on the [GLEXP hosted repositories](https://github.com/XPRIZE/GLEXP-Team-CCI/tree/master/Cordova%20schoolHouse%20app)
+All pubbly related content are HTML packets, which can run locally, on a web server, or in a cordova wrapped APK. Each packed can be exported directly from the [Pubbly Design Tools](https://github.com/PubblyDevelopment/pubbly_design_tools), created and downloaded from a [Pubbly Console](https://github.com/PubblyDevelopment/pubbly_console), or manually added from the English/Swahili content root folders, found on the [GLEXP hosted repositories](https://github.com/XPRIZE/GLEXP-Team-CCI/tree/master/Cordova%20schoolHouse%20app) or TODO: downloadable from our own website. [English web root](xprize.pubbly.com/Submissions/EnglishSchoolHouseRoot.zip), [Swahili web root](xprize.pubbly.com/Submissions/SwahiliSchoolHouseRoot.zip)
 
 ### Adding content: Xprize web roots
 
@@ -75,10 +75,10 @@ Download either EnglishWebRoot or SwahiliWebRoot, and put it in the web root of 
 
 If you ONLY want your application to be a console map packet, you're in luck. First, create and download a map from your console server.
 
-* Create pubbly console - [Pubbly Console]() section "Getting started"
-* Create map nodes from Design Tools - [Pubbly Design Tools]() section "Exports: Maps"
-* Assemble map on Console - [Pubbly Console]() section "Assembling content: Mapping"
-* Download map packet - [Pubbly Console]() section "Creating packets: Mapped Exports"
+* Create pubbly console - [Pubbly Console](https://github.com/PubblyDevelopment/pubbly_console) section "Getting started"
+* Create map nodes from Design Tools - [Pubbly Design Tools](https://github.com/PubblyDevelopment/pubbly_design_tools) section "Exports: Maps"
+* Assemble map on Console - [Pubbly Console](https://github.com/PubblyDevelopment/pubbly_console) section "Assembling content: Mapping"
+* Download map packet - [Pubbly Console](https://github.com/PubblyDevelopment/pubbly_console) section "Creating packets: Mapped Exports"
 
 Create a new project and add the android platform if you haven't already
 
