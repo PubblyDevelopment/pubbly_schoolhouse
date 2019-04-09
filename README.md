@@ -2,11 +2,8 @@
 
 Cordova project for Swahili and English APK submissions.
 
-## Structure
 
-Original, the structure of the School House cordova project was to be determined from the Console itself. Each school was to have a grid based system, and each subject was to exist at a certain point in the grid. However, as the deadline approached, too many small changes were required, and so the application was half automated and half manually tweaked.
-
-### App setup
+## Getting Started
 
 First, install cordova. [Installing cordova](https://cordova.apache.org/docs/en/latest/guide/cli/#installing-the-cordova-cli)
 
@@ -97,7 +94,7 @@ Check your device. It should have launched to the map you just exported from the
 
 ### Adding content: New console from scratch using our existing web structure as a base
 
-This is a more difficult proposition.
+Original, the structure of the School House cordova project was to be determined from the Console itself. Each school was to have a grid based system, and each subject was to exist at a certain point in the grid. However, as the deadline approached, too many small changes were required, and so the application was half automated and half manually tweaked. The only way to add new content with a different structure (different NUMBER of levels/lessons, differently named/organized books in the bookshelf) is to use the existing English/Swahili web roots as a "jumping off point", i.e., through manual modification of the FS, the XML and even in some parts the JS.
 
 The School House application structure was developed specifically with our Xprize program in mind. There are a few limited ways to "tweak" it to accommodate new levels, new numbers of units in each level, new subjects, new subject placements in the UI, but if you're doing anything more complicated than not-very-complicated, it might be advisable to treat all Console generated packets as "content", and write your own front end to house it.
 
